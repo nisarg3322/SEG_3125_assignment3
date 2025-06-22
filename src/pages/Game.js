@@ -6,7 +6,6 @@ import {
   Image,
   Container,
   Nav,
-  NavDropdown,
   Navbar,
   Row,
   Col,
@@ -14,7 +13,7 @@ import {
   ToggleButton,
 } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 function Game() {
   // Card image names (from public folder)

@@ -1,4 +1,3 @@
-import logo from "../logo.svg";
 import "../App.css";
 import { Link } from "react-router-dom";
 import {
@@ -7,7 +6,6 @@ import {
   Image,
   Container,
   Nav,
-  NavDropdown,
   Navbar,
   Row,
   Col,
