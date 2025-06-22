@@ -63,10 +63,10 @@ function Home() {
               </div>
               <div className=" d-flex justify-content-center">
                 <p className="intro-service ">
-                  Welcome to MemMatch! In this memory match card game, is tests
-                  how sharp your memorization is when matching cards. Keep
-                  matching correctly to try to set a new high score, but one
-                  mistake resets your streak!
+                  Welcome to MemMatch, a fun and challenging memory card game!
+                  Choose between easy mode (5 seconds to memorize) or hard mode
+                  (2 seconds), then match all the card pairs using your memory
+                  skills.
                 </p>
               </div>
             </Col>
